@@ -19,6 +19,6 @@ spec:
   type: gitops
   owner: user:guest 
   lifecycle: experimental
-  dependsOn:
+  dependsOn: 
     - component:go-tawlyuwm
  
