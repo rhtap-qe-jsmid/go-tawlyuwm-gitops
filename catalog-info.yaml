@@ -21,3 +21,4 @@ spec:
   lifecycle: experimental
   dependsOn:
     - component:go-tawlyuwm
+ 
